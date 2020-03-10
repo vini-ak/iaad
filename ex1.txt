@@ -1,0 +1,1 @@
+Banco de dados é um agrupamento de informações úteis a um determinado sistema, armazenados de modo a serem consultados no futuro. Um sistema de gerenciamento facilita a manipulação de um banco de dados. 
